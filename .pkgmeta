@@ -4,3 +4,6 @@ enable-nolib-creation: no
 ignore:
     - LICENSE
     - scripts
+
+move-folders:
+    ActionCam/ActionCam ActionCam
