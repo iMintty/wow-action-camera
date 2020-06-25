@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: Action Camera
+## Version: @project-version@
+## Notes: Automatically enable action camera with customizations of your choice.
+## Author: yikesMinty (Curse)
+## SavedVariables: action_cam_saved
+
+core.lua
+settings.lua

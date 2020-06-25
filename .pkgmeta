@@ -1,0 +1,6 @@
+package-as: ActionCam
+enable-nolib-creation: no
+
+ignore:
+    - LICENSE
+    - scripts
